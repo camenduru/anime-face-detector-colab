@@ -9,8 +9,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/anime-face-detector-colab/blob/main/anime_face_detector_colab.ipynb) | anime_face_detector_colab
 
 ## Main Repo
-https://github.com/kanosawa/anime_face_landmark_detection <br />
 https://github.com/hysts/anime-face-detector <br />
+https://huggingface.co/spaces/hysts/anime-face-detector/tree/main <br />
+https://github.com/kanosawa/anime_face_landmark_detection <br />
 
 ## Paper
 
